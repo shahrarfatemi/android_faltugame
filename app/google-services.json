@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724381415635",
+    "firebase_url": "https://faltu-game.firebaseio.com",
+    "project_id": "faltu-game",
+    "storage_bucket": "faltu-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724381415635:android:c286239779e46511f3fc26",
+        "android_client_info": {
+          "package_name": "com.example.faltu_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724381415635-cg9hp4fh7s0rje36jm0e0nqebunjs0ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faltu_game",
+            "certificate_hash": "d55556f6e6d32fbb5a964caabdd90e8074c868d8"
+          }
+        },
+        {
+          "client_id": "724381415635-eo8onnf89edn30bugim0d7dl80obp0lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoTrRsfw648bCpbdwyh1Boz7QzkWcgT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724381415635-eo8onnf89edn30bugim0d7dl80obp0lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
